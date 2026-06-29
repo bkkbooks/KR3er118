@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3er118/T/v1
+canonical_location: https://kanripo.org/bkk/KR3er118/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 臟腑證治圖說人鏡經
+  identifiers:
+    krp: KR3er118
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er118.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3er118_001-T.yaml, hash: 'sha256:85e3aee01903dbf7c2a12c86c19940fae40fdfdc4603fd1baca86a4f6a6c58bb'}
+table_of_contents: []
+hash: sha256:9b85100ab2fc186269d9235642a57552c1dcbdf00d285854187e7ff88c2be215

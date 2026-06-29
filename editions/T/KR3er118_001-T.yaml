@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3er118/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 臟腑證治圖說人鏡經
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er118.xml
+hash: sha256:85e3aee01903dbf7c2a12c86c19940fae40fdfdc4603fd1baca86a4f6a6c58bb
