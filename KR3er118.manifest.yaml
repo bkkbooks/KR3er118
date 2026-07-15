@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er118/v1
 canonical_location: https://kanripo.org/bkk/KR3er118/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 臟腑證治圖說人鏡經
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3er118_001.yaml
     hash: sha256:85e3aee01903dbf7c2a12c86c19940fae40fdfdc4603fd1baca86a4f6a6c58bb
 table_of_contents: []
-hash: sha256:5859f7840521e6621e7d00bd0939e5e720c2480ba8f382cb82893c45d85c6473
+hash: sha256:d0924bd3fc800421651ddd538149de534cb7e31543259778fbcc824597cf019d
